@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>World 1</string>
+		<key>subtitle</key>
+		<string>Start here</string>
+		<key>identifier</key>
+		<string>1</string>
+		<key>isImplemented</key>
+		<true/>
+		<key>levels</key>
+		<array>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>1</integer>
+				<key>index</key>
+				<integer>1</integer>
+				<key>pattern</key>
+				<string>1 3 6 9 11</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>1</integer>
+				<key>index</key>
+				<integer>2</integer>
+				<key>pattern</key>
+				<string>1 4 6 9 11 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>1</integer>
+				<key>index</key>
+				<integer>3</integer>
+				<key>pattern</key>
+				<string>2 5 6 7 9 10 12</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>2</integer>
+				<key>index</key>
+				<integer>4</integer>
+				<key>pattern</key>
+				<string>0 3 5 6 9 10 12 15</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>2</integer>
+				<key>index</key>
+				<integer>5</integer>
+				<key>pattern</key>
+				<string>3 6 7 9 10 11 12 13 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>2</integer>
+				<key>index</key>
+				<integer>6</integer>
+				<key>pattern</key>
+				<string>3 6 7 9 10 11 12 13 14 15</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>3</integer>
+				<key>index</key>
+				<integer>7</integer>
+				<key>pattern</key>
+				<string>3 5 6 7 9 10 11 12 13 14 15</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>3</integer>
+				<key>index</key>
+				<integer>8</integer>
+				<key>pattern</key>
+				<string>1 2 4 5 6 7 8 9 10 11 13 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>3</integer>
+				<key>index</key>
+				<integer>9</integer>
+				<key>pattern</key>
+				<string>1 2 4 5 6 7 8 9 10 11 12 13 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>4</integer>
+				<key>index</key>
+				<integer>10</integer>
+				<key>pattern</key>
+				<string>1 2 3 4 5 6 7 8 9 10 11 12 13 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>4</integer>
+				<key>index</key>
+				<integer>11</integer>
+				<key>pattern</key>
+				<string>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>4</integer>
+				<key>index</key>
+				<integer>12</integer>
+				<key>pattern</key>
+				<string>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>World 2</string>
+		<key>subtitle</key>
+		<string>Coming soon</string>
+		<key>identifier</key>
+		<string>2</string>
+		<key>isImplemented</key>
+		<string>NO</string>
+		<key>levels</key>
+		<array>
+			<dict>
+				<key>maximumNumberOfMistakedAllowed</key>
+				<integer>1</integer>
+				<key>index</key>
+				<integer>1</integer>
+				<key>pattern</key>
+				<string>1 3 6 9 11</string>
+				<key>waitBetweenCardsDuration</key>
+				<integer>100</integer>
+				<key>teaseCardDuration</key>
+				<integer>1000</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
